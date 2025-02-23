@@ -4,7 +4,7 @@ forecastURL = "https://api.openweathermap.org/data/2.5/forecast?"
 gweatherURL = "https://api.openweathermap.org/data/2.5/weather?"
 
 #Openweather forecast => 5 days divided in intervals of 3 hours
-#
+#no messages implemented yet
 
 class WeatherWrapper:
 
